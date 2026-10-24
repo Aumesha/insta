@@ -1,0 +1,6 @@
+{
+  "name": "InstaLink AutoDM - Instagram Reels Comment-to-DM Automation",
+  "description": "Instagram Reels comment keyword automation studio. Automatically send direct message links to commenters who comment with specific keywords.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
