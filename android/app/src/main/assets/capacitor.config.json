@@ -1,0 +1,8 @@
+{
+	"appId": "com.instalink.autodm",
+	"appName": "InstaLink AutoDM",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
